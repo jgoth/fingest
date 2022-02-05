@@ -1,7 +1,26 @@
 # fingest
 Financial Ingestion Framework
 
+## Installation
 
+(Requires a 4.x neo4j instance and CoreNLP Server)
+
+### Unzip the data file
+
+```
+tar xvfz data.zip
+```
+
+
+### Configure the config.json file
+
+Include the CoreNLP port, Neo4j Server user and password
+
+### Run the graph import notebook
+
+Open the graph import jupyter notebook and execute each block
+
+This will load the Neo4j database
 
 
 ## Obtain communities of institutional holders
