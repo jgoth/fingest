@@ -35,4 +35,19 @@ This will load the Neo4j database
   WHERE size(group) > 1
   RETURN communityId, group
   ORDER BY size(group) ASC
+
+
+╒═════════════╤══════════════════════════════════════════════════════════════════════╕
+│"communityId"│"group"                                                               │
+╞═════════════╪══════════════════════════════════════════════════════════════════════╡
+│1810         │["F/M Investments, LLC","Mengis Capital Management, Inc."]            │
+├─────────────┼──────────────────────────────────────────────────────────────────────┤
+│2030         │["ARK ETF Tr-ARK Space Exploration & Innovation ETF","Fidelity Select │
+│             │Portfolios - Defense and Aerospace"]                                  │
+├─────────────┼──────────────────────────────────────────────────────────────────────┤
+│2161         │["Direxion Shares ETF Tr-Direxion Low Priced Stock ETF","ProShares Tr-│
+│             │Ultra Nasdaq Biotechnology Fd","Principal Healthcare Innovators Index │
+│             │ETF"]                                                                 │
+├─────────────┼──────────────────────────────────────────────────────────────────────┤
+
 ```
