@@ -1,0 +1,12 @@
+{
+    "corenlp": {
+        "host":"(My host or IP)",
+        "port":9000
+    },
+    "neo4j": {
+        "host":"(My host or IP)",
+        "port":7687,
+        "user":"neo4j",
+        "password":"neo4j"
+    }    
+}
