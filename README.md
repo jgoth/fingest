@@ -1,5 +1,5 @@
 # fingest
-Financial Ingestion Framework
+Financial Ingestion Framework for experimenting with Neo4j graph algorithms. Information persisted online into json using [yfinance](https://pypi.org/project/yfinance/).
 
 ## Installation
 
