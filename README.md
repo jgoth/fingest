@@ -51,3 +51,5 @@ This will load the Neo4j database
 ├─────────────┼──────────────────────────────────────────────────────────────────────┤
 
 ```
+
+As a sanity check, this appears to be consistent with our intuition since community #2030 contains a space and defense/aerospace fund.
