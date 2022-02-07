@@ -1,6 +1,13 @@
 # fingest
 Financial Ingestion Framework for experimenting with Neo4j graph algorithms. Information persisted online into json using [yfinance](https://pypi.org/project/yfinance/).
 
+## Schema
+
+
+![Schema](https://github.com/jgoth/fingest/blob/main/schema.jpg?raw=true)
+
+Above is the schema for the graph database
+
 ## Installation
 
 (Requires a 4.x neo4j instance and CoreNLP Server)
