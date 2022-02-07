@@ -21,7 +21,7 @@ tar xvfz data.zip
 
 ### Configure the config.json file
 
-Include the CoreNLP port, Neo4j Server user and password
+Include the CoreNLP host + port, Neo4j Server host, port, user and password
 
 ### Run the graph import notebook
 
